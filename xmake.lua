@@ -1,6 +1,6 @@
 add_rules("mode.debug", "mode.release")
 
-target("shell")
+target("bashell")
     set_kind("binary")
     add_files("src/*.cpp")
 
