@@ -9,7 +9,7 @@ A very basic shell created in the mighty C++
 ### How to build:
  - clone this repo
 ```sh
-https://github.com/AqeAyen/Bashell.git
+git clone https://github.com/AqeAyen/Bashell.git
 ```
 
  - go into the directory and type ```xmake && xmake run```
