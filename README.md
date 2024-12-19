@@ -8,6 +8,7 @@ A very basic shell created in the mighty C++
  - xmake ```pkg i xmake```(termux)
 ### How to build:
  - clone this repo
- - ```https://github.com/AqeAyen/Bashell.git
+ - ```https://github.com/AqeAyen/Bashell.git  
  
+
  - go into the directory and type ```xmake && xmake run```
